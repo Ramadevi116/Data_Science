@@ -1,0 +1,11 @@
+id,bin_1,bin_2,City,Ord_1,Ord_2,Target
+0,F,N,Delhi,Hot,High School,0
+1,F,Y,Bangalore,Warm,Masters,1
+2,M,N,Mumbai,Very Hot,Diploma,1
+3,M,Y,Chennai,Cold,Bachelors,0
+4,M,Y,Delhi,Cold,Bachelors,1
+5,F,N,Delhi,Very Hot,Masters,0
+6,M,N,Chennai,Warm,PhD,1
+7,F,N,Chennai,Hot,High School,1
+8,M,N,Delhi,Very Hot,High School,0
+9,F,Y,Delhi,Warm,PhD,0
